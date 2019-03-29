@@ -397,7 +397,7 @@ Turn-based dice game where players score points by rolling a die and then: if th
 
 - Its a game which allows you to play with english sentences.
 - User will enter a sentence in any format.(uppercase or lowercase or a mix of both)
-- Program must convert the given sentence in google case .What is a google case style of sentence?[know_about_it_here:](It is a style of         writing where we replace all lower case letters into upper case letters leaving the initial of all the words).
+- Program must convert the given sentence in google case .What is a google case style of sentence? [know_about_it_here:](It is a style of         writing where we replace all lower case letters into upper case letters leaving the initial of all the words) .
 - Subgoals:
     - Program must then convert the given sentence in camel case. To know more about camel case                   
     [click_here](https://en.wikipedia.org/wiki/Camel_case)
